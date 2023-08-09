@@ -12,7 +12,7 @@
   width: 5px;
 }
 .container::-webkit-scrollbar-track {
-  box-shadow: inset 0 0 6px rgba(163, 163, 0.3);
+  box-shadow: inset 0 0 6px rgb(221, 221, 204);
   border-radius: 5px;
 }
 .container::-webkit-scrollbar-thumb {
